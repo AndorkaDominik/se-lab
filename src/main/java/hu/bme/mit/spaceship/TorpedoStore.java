@@ -48,6 +48,7 @@ public class TorpedoStore {
       success = false;
     }
 
+    // Return ha jó
     return success;
   }
 
