@@ -56,6 +56,7 @@ public class TorpedoStore {
     return this.torpedoCount <= 0;
   }
 
+  // getter függvény
   public int getTorpedoCount() {
     return this.torpedoCount;
   }
